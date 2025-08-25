@@ -1,3 +1,8 @@
+📂 LeetCode Solutions Repository
+
+This repository contains my solutions to a variety of LeetCode problems, organized for clarity and ease of reference.
+
+If you find this repository useful or choose to clone it, give it a ⭐ star.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
