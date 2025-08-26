@@ -18,8 +18,13 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit227060/LeetCode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
