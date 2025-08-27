@@ -23,8 +23,10 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit227060/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ankit227060/LeetCode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ankit227060/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
