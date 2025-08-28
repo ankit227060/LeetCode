@@ -18,6 +18,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -29,4 +30,8 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0027-remove-element](https://github.com/ankit227060/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
