@@ -30,6 +30,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0001-two-sum](https://github.com/ankit227060/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ankit227060/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ankit227060/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit227060/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
@@ -65,4 +66,8 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit227060/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
