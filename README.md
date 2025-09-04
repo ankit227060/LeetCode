@@ -70,4 +70,20 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
