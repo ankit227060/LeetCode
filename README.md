@@ -16,6 +16,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0007-reverse-integer](https://github.com/ankit227060/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ankit227060/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
@@ -35,6 +36,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit227060/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -88,4 +90,12 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
