@@ -4,7 +4,7 @@ class Solution {
     public int countPrimes(int n) {
         if (n <= 2) return 0;
 
-        // Step 1: Create and initialize the sieve
+ 
         boolean[] isPrime = new boolean[n];
         Arrays.fill(isPrime, true);
         isPrime[0] = false;
