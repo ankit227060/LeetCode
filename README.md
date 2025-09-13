@@ -16,6 +16,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0007-reverse-integer](https://github.com/ankit227060/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ankit227060/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
@@ -39,6 +40,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit227060/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -50,6 +52,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankit227060/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ankit227060/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
