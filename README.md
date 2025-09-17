@@ -10,6 +10,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0001-two-sum](https://github.com/ankit227060/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit227060/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ankit227060/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
@@ -80,6 +82,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0075-sort-colors](https://github.com/ankit227060/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
@@ -130,4 +133,12 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
