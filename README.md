@@ -42,6 +42,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit227060/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ankit227060/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ankit227060/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
