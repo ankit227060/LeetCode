@@ -47,6 +47,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/ankit227060/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
