@@ -54,6 +54,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ankit227060/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankit227060/LeetCode/tree/master/0344-reverse-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +146,8 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
