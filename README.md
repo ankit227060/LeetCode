@@ -27,6 +27,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/ankit227060/LeetCode/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0054-spiral-matrix](https://github.com/ankit227060/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/ankit227060/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Union Find
 |  |
 | ------- |
