@@ -4,27 +4,27 @@ class Solution {
     public int[] avoidFlood(int[] rains) {
         int n = rains.length;
         int[] result = new int[n];
-        Map<Integer, Integer> lakeToLastRain = new HashMap<>(); // lake -> last rain index
-        TreeSet<Integer> dryDays = new TreeSet<>(); // indices of 0s
+        Map<Integer, Integer> lakeToLastRain = new HashMap<>();
+        TreeSet<Integer> dryDays = new TreeSet<>();
 
         for (int i = 0; i < n; i++) {
             int lake = rains[i];
             if (lake > 0) {
-                result[i] = -1; // raining day
+                result[i] = -1;
                 if (lakeToLastRain.containsKey(lake)) {
-                    // Already full, need to dry before
+                    
                     int lastRainDay = lakeToLastRain.get(lake);
-                    Integer dryDay = dryDays.ceiling(lastRainDay + 1); // find dry day after last rain
+                    Integer dryDay = dryDays.ceiling(lastRainDay + 1);
                     if (dryDay == null) {
-                        return new int[0]; // flood can't be avoided
+                        return new int[0];
                     }
-                    result[dryDay] = lake; // dry this lake on that day
+                    result[dryDay] = lake;
                     dryDays.remove(dryDay);
                 }
-                lakeToLastRain.put(lake, i); // update last rain day
+                lakeToLastRain.put(lake, i);
             } else {
-                dryDays.add(i); // store dry day index
-                result[i] = 1;  // temporary default value, will be replaced if we use this day
+                dryDays.add(i); 
+                result[i] = 1;  
             }
         }
 
