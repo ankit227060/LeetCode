@@ -71,6 +71,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1612-avoid-flood-in-the-city](https://github.com/ankit227060/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0283-move-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankit227060/LeetCode/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +128,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ankit227060/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
