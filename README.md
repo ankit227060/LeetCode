@@ -72,6 +72,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/ankit227060/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
 |  |
 | ------- |
@@ -207,4 +209,8 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankit227060/LeetCode/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/ankit227060/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
