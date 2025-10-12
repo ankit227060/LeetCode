@@ -30,6 +30,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/ankit227060/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ankit227060/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0136-single-number](https://github.com/ankit227060/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +131,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit227060/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,4 +226,12 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ankit227060/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
