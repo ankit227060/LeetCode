@@ -89,6 +89,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ankit227060/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ankit227060/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
@@ -132,6 +133,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ankit227060/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -249,6 +252,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ankit227060/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
@@ -259,4 +263,8 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
