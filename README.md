@@ -35,6 +35,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ankit227060/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ankit227060/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/ankit227060/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -52,6 +53,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ankit227060/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankit227060/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
@@ -88,6 +90,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankit227060/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ankit227060/LeetCode/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ankit227060/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -250,6 +253,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0407-trapping-rain-water-ii](https://github.com/ankit227060/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
