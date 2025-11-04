@@ -28,6 +28,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankit227060/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ankit227060/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ankit227060/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
@@ -253,6 +254,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankit227060/LeetCode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -357,6 +359,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankit227060/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/ankit227060/LeetCode/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankit227060/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
