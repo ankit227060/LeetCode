@@ -51,6 +51,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankit227060/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ankit227060/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ankit227060/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -125,6 +126,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankit227060/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ankit227060/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankit227060/LeetCode/tree/master/0027-remove-element) |
@@ -182,6 +184,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankit227060/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ankit227060/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ankit227060/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankit227060/LeetCode/tree/master/0119-pascals-triangle-ii) |
