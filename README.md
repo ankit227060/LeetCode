@@ -31,6 +31,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0009-palindrome-number](https://github.com/ankit227060/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ankit227060/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ankit227060/LeetCode/tree/master/0258-add-digits) |
@@ -54,6 +55,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0014-longest-common-prefix](https://github.com/ankit227060/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankit227060/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankit227060/LeetCode/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -167,6 +169,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankit227060/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ankit227060/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -264,6 +267,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankit227060/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ankit227060/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankit227060/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
