@@ -225,11 +225,13 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -239,6 +241,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/ankit227060/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -249,6 +252,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
 ## Enumeration
