@@ -64,6 +64,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0014-longest-common-prefix](https://github.com/ankit227060/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankit227060/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ankit227060/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/ankit227060/LeetCode/tree/master/0087-scramble-string) |
@@ -164,6 +165,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## String Matching
 |  |
@@ -206,6 +208,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankit227060/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ankit227060/LeetCode/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/ankit227060/LeetCode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/ankit227060/LeetCode/tree/master/0097-interleaving-string) |
