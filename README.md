@@ -36,6 +36,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0009-palindrome-number](https://github.com/ankit227060/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ankit227060/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ankit227060/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ankit227060/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ankit227060/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
@@ -290,6 +291,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankit227060/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ankit227060/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ankit227060/LeetCode/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
