@@ -97,6 +97,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0048-rotate-image](https://github.com/ankit227060/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ankit227060/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankit227060/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ankit227060/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankit227060/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankit227060/LeetCode/tree/master/0075-sort-colors) |
@@ -216,6 +217,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0005-longest-palindromic-substring](https://github.com/ankit227060/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ankit227060/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ankit227060/LeetCode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/ankit227060/LeetCode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/ankit227060/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ankit227060/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -358,6 +360,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankit227060/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ankit227060/LeetCode/tree/master/0055-jump-game) |
 | [1612-avoid-flood-in-the-city](https://github.com/ankit227060/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankit227060/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
