@@ -39,6 +39,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0050-powx-n](https://github.com/ankit227060/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ankit227060/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/ankit227060/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ankit227060/LeetCode/tree/master/0258-add-digits) |
@@ -224,6 +225,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0087-scramble-string](https://github.com/ankit227060/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ankit227060/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ankit227060/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ankit227060/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ankit227060/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ankit227060/LeetCode/tree/master/0118-pascals-triangle) |
@@ -255,6 +257,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ankit227060/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
@@ -283,6 +286,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ankit227060/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
@@ -442,4 +446,5 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ankit227060/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
