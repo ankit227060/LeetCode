@@ -107,6 +107,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0056-merge-intervals](https://github.com/ankit227060/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankit227060/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ankit227060/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ankit227060/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ankit227060/LeetCode/tree/master/0118-pascals-triangle) |
@@ -210,6 +211,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ankit227060/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankit227060/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ankit227060/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ankit227060/LeetCode/tree/master/0190-reverse-bits) |
@@ -419,6 +421,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ankit227060/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/ankit227060/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankit227060/LeetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
