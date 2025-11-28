@@ -297,6 +297,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ankit227060/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -306,6 +307,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ankit227060/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ankit227060/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ankit227060/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
