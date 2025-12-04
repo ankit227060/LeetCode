@@ -99,6 +99,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ankit227060/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ankit227060/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankit227060/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/ankit227060/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ankit227060/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -213,6 +214,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2211-count-collisions-on-a-road](https://github.com/ankit227060/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ankit227060/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
 |  |
@@ -390,6 +392,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankit227060/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/ankit227060/LeetCode/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/ankit227060/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ankit227060/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ankit227060/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
