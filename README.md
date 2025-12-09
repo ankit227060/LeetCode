@@ -30,6 +30,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankit227060/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankit227060/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/ankit227060/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ankit227060/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankit227060/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ankit227060/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -178,6 +179,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ankit227060/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankit227060/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/ankit227060/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ankit227060/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankit227060/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ankit227060/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -390,6 +392,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/ankit227060/LeetCode/tree/master/3583-count-special-triplets) |
 ## Simulation
 |  |
 | ------- |
