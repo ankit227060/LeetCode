@@ -18,6 +18,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/ankit227060/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -58,6 +59,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0258-add-digits](https://github.com/ankit227060/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankit227060/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -165,6 +167,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0717-1-bit-and-2-bit-characters](https://github.com/ankit227060/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ankit227060/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankit227060/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ankit227060/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -480,6 +483,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0407-trapping-rain-water-ii](https://github.com/ankit227060/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankit227060/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
