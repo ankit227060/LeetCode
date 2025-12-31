@@ -181,6 +181,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankit227060/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ankit227060/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/ankit227060/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ankit227060/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankit227060/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -355,6 +356,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankit227060/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/ankit227060/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ankit227060/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/ankit227060/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ankit227060/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankit227060/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -382,6 +384,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ankit227060/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ankit227060/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ankit227060/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ankit227060/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ankit227060/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -396,6 +399,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ankit227060/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ankit227060/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ankit227060/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ankit227060/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -472,6 +476,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankit227060/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ankit227060/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ankit227060/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/ankit227060/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
@@ -485,6 +490,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankit227060/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/ankit227060/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Heap (Priority Queue)
