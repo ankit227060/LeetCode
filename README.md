@@ -52,6 +52,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0048-rotate-image](https://github.com/ankit227060/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankit227060/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ankit227060/LeetCode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/ankit227060/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankit227060/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/ankit227060/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ankit227060/LeetCode/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0054-spiral-matrix](https://github.com/ankit227060/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ankit227060/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankit227060/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/ankit227060/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankit227060/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankit227060/LeetCode/tree/master/0078-subsets) |
