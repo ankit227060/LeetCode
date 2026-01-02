@@ -19,6 +19,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ankit227060/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/ankit227060/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -173,6 +174,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0944-delete-columns-to-make-sorted](https://github.com/ankit227060/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ankit227060/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ankit227060/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ankit227060/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankit227060/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
