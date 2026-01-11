@@ -153,6 +153,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0073-set-matrix-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankit227060/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankit227060/LeetCode/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/ankit227060/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ankit227060/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ankit227060/LeetCode/tree/master/0118-pascals-triangle) |
@@ -265,6 +266,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/ankit227060/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/ankit227060/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ankit227060/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -330,6 +332,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ankit227060/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ankit227060/LeetCode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/ankit227060/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ankit227060/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ankit227060/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -509,6 +512,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0048-rotate-image](https://github.com/ankit227060/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankit227060/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/ankit227060/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/ankit227060/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -604,6 +608,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ankit227060/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ankit227060/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
