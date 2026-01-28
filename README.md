@@ -255,6 +255,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3623-count-number-of-trapezoids-i](https://github.com/ankit227060/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ankit227060/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ankit227060/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ankit227060/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ankit227060/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ankit227060/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ankit227060/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -389,6 +390,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ankit227060/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ankit227060/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ankit227060/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ankit227060/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
@@ -557,6 +559,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1975-maximum-matrix-sum](https://github.com/ankit227060/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ankit227060/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
