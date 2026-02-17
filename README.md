@@ -370,6 +370,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0190-reverse-bits](https://github.com/ankit227060/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/ankit227060/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ankit227060/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -696,6 +697,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0078-subsets](https://github.com/ankit227060/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankit227060/LeetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0401-binary-watch](https://github.com/ankit227060/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Design
