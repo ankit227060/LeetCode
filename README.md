@@ -372,6 +372,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/ankit227060/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ankit227060/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ankit227060/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ankit227060/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
