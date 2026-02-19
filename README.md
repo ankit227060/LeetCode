@@ -160,6 +160,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankit227060/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ankit227060/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ankit227060/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ankit227060/LeetCode/tree/master/0048-rotate-image) |
@@ -431,6 +432,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankit227060/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankit227060/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankit227060/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ankit227060/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
