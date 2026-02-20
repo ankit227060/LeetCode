@@ -126,6 +126,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0696-count-binary-substrings](https://github.com/ankit227060/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ankit227060/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/ankit227060/LeetCode/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankit227060/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ankit227060/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -341,6 +342,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ankit227060/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/ankit227060/LeetCode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/ankit227060/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -552,6 +554,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ankit227060/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/ankit227060/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankit227060/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankit227060/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
