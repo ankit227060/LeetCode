@@ -211,6 +211,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ankit227060/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankit227060/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/ankit227060/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ankit227060/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ankit227060/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -349,6 +350,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1200-minimum-absolute-difference](https://github.com/ankit227060/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankit227060/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ankit227060/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ankit227060/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -386,6 +388,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankit227060/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ankit227060/LeetCode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ankit227060/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ankit227060/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ankit227060/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ankit227060/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -571,6 +574,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/ankit227060/LeetCode/tree/master/3583-count-special-triplets) |
