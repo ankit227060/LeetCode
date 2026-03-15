@@ -80,6 +80,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1266-minimum-time-visiting-all-points](https://github.com/ankit227060/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ankit227060/LeetCode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankit227060/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/ankit227060/LeetCode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ankit227060/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankit227060/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -763,6 +764,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/ankit227060/LeetCode/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/ankit227060/LeetCode/tree/master/2169-simple-bank-system) |
 ## Monotonic Stack
 |  |
@@ -820,6 +822,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/ankit227060/LeetCode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/ankit227060/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankit227060/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankit227060/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
