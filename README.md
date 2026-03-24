@@ -259,6 +259,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2618-maximize-the-minimum-powered-city](https://github.com/ankit227060/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ankit227060/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ankit227060/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2906-construct-product-matrix](https://github.com/ankit227060/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ankit227060/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ankit227060/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ankit227060/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -676,6 +677,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1975-maximum-matrix-sum](https://github.com/ankit227060/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2906-construct-product-matrix](https://github.com/ankit227060/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankit227060/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ankit227060/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ankit227060/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -732,6 +734,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ankit227060/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ankit227060/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ankit227060/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2906-construct-product-matrix](https://github.com/ankit227060/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ankit227060/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ankit227060/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ankit227060/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
