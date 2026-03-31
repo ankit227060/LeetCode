@@ -167,6 +167,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ankit227060/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ankit227060/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ankit227060/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ankit227060/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/ankit227060/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/ankit227060/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -365,6 +366,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankit227060/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ankit227060/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
 | ------- |
@@ -741,6 +743,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ankit227060/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ankit227060/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ankit227060/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ankit227060/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ankit227060/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ankit227060/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
