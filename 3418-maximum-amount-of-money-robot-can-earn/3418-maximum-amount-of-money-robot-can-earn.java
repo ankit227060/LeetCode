@@ -1,28 +1,68 @@
 class Solution {
     public int maximumAmount(int[][] coins) {
-        int n = coins.length;
-        int m = coins[0].length;
-        int[][][] dp = new int[n][m][3];
+        int m = coins.length;
+        int n = coins[0].length;
 
-        for (int[][] row : dp) {
-            for (int[] col : row) {
-                java.util.Arrays.fill(col, (int)-1e9);
+        // dp[i][j][k]
+        int[][][] dp = new int[m][n][3];
+
+        // Initialize with very small values
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                for (int k = 0; k < 3; k++) {
+                    dp[i][j][k] = Integer.MIN_VALUE;
+                }
             }
         }
 
-        dp[0][0][1] = 0;
-        dp[0][0][2] = 0;
-        dp[0][0][0] = coins[0][0];
+        // Base case for (0,0)
+        for (int k = 0; k <= 2; k++) {
+            if (coins[0][0] >= 0) {
+                dp[0][0][k] = coins[0][0];
+            } else {
+                dp[0][0][k] = (k > 0) ? 0 : coins[0][0];
+            }
+        }
 
-        for (int i = 0; i < n; i++)
-            for (int j = 0; j < m; j++)
-                for (int k = 0; k < 3; k++) {
-                    if (i > 0) dp[i][j][k] = Math.max(dp[i][j][k], dp[i - 1][j][k] + coins[i][j]);
-                    if (i > 0 && k > 0) dp[i][j][k] = Math.max(dp[i][j][k], dp[i - 1][j][k - 1]);
-                    if (j > 0) dp[i][j][k] = Math.max(dp[i][j][k], dp[i][j - 1][k] + coins[i][j]);
-                    if (j > 0 && k > 0) dp[i][j][k] = Math.max(dp[i][j][k], dp[i][j - 1][k - 1]);
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == 0 && j == 0) continue;
+
+                for (int k = 0; k <= 2; k++) {
+                    int best_prev = Integer.MIN_VALUE;
+
+                    if (i > 0) best_prev = Math.max(best_prev, dp[i-1][j][k]);
+                    if (j > 0) best_prev = Math.max(best_prev, dp[i][j-1][k]);
+
+                    int val = coins[i][j];
+
+                    if (val >= 0) {
+                        dp[i][j][k] = best_prev + val;
+                    } else {
+                        // do not neutralize
+                        int no_neutral = best_prev + val;
+
+                        // use neutralization if available
+                        int use_neutral = Integer.MIN_VALUE;
+                        if (k > 0) {
+                            int best_prev2 = Integer.MIN_VALUE;
+
+                            if (i > 0) best_prev2 = Math.max(best_prev2, dp[i-1][j][k-1]);
+                            if (j > 0) best_prev2 = Math.max(best_prev2, dp[i][j-1][k-1]);
+
+                            use_neutral = best_prev2;
+                        }
+
+                        dp[i][j][k] = Math.max(no_neutral, use_neutral);
+                    }
                 }
+            }
+        }
 
-        return Math.max(dp[n - 1][m - 1][0], Math.max(dp[n - 1][m - 1][1], dp[n - 1][m - 1][2]));
+        return Math.max(dp[m-1][n-1][0],
+               Math.max(dp[m-1][n-1][1], dp[m-1][n-1][2]));
     }
 }
+
+
+
