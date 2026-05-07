@@ -1,40 +1,67 @@
 class Solution {
-    record Item(int value, int index) {}
+    static class Pair {
+        int num;
+        int pos;
+        Pair(int num, int pos) {
+            this.num = num;
+            this.pos = pos;
+        }
+    }
     public int[] maxValue(int[] nums) {
         int n = nums.length;
-        int[] ans = new int[n];
-        Item[] prevMax = new Item[n];
-        Item prev = new Item(Integer.MIN_VALUE, -1);
+        int[] result = new int[n];
+        Pair[] bestLeft = new Pair[n];
+        int largest = Integer.MIN_VALUE;
+        int largestIndex = -1;
         for (int i = 0; i < n; i++) {
-            if (nums[i] > prev.value()) {
-                prev = new Item(nums[i], i);
+            if (nums[i] > largest) {
+                largest = nums[i];
+                largestIndex = i;
             }
-            prevMax[i] = prev;
+            bestLeft[i] = new Pair(largest, largestIndex);
         }
-        process(n - 1, Integer.MAX_VALUE, 0, prevMax, ans, nums);
-        return ans;
+        fillValues(
+            n - 1,
+            Integer.MAX_VALUE,
+            0,
+            nums,
+            result,
+            bestLeft
+        );
+        return result;
     }
-    private void process(
-        int r,
-        int rightMin,
-        int rightMax,
-        Item[] prevMax,
-        int[] ans,
-        int[] nums
+    private void fillValues(
+        int end,
+        int minOnRight,
+        int inheritedMax,
+        int[] nums,
+        int[] result,
+        Pair[] bestLeft
     ) {
-        int pMax = prevMax[r].value();
-        int pivotIndex = prevMax[r].index();
-
-        int currMax = pMax <= rightMin ? pMax : rightMax;
-
-        int nextRightMin = Math.min(pMax, rightMin);
-        for (int i = pivotIndex; i <= r; i++) {
-            ans[i] = currMax;
-            nextRightMin = Math.min(nextRightMin, nums[i]);
+        Pair current = bestLeft[end];
+        int blockMax = current.num;
+        int split = current.pos;
+        int valueToFill;
+        if (blockMax <= minOnRight) {
+            valueToFill = blockMax;
+        } else {
+            valueToFill = inheritedMax;
         }
-        if (pivotIndex == 0) {
+        int updatedMin = Math.min(minOnRight, blockMax);
+        for (int i = split; i <= end; i++) {
+            result[i] = valueToFill;
+            updatedMin = Math.min(updatedMin, nums[i]);
+        }
+        if (split == 0) {
             return;
         }
-        process(pivotIndex - 1, nextRightMin, currMax, prevMax, ans, nums);
+        fillValues(
+            split - 1,
+            updatedMin,
+            valueToFill,
+            nums,
+            result,
+            bestLeft
+        );
     }
 }
