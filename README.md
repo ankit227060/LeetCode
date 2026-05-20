@@ -38,6 +38,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2402-meeting-rooms-iii](https://github.com/ankit227060/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/ankit227060/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ankit227060/LeetCode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit227060/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ankit227060/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/ankit227060/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ankit227060/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -313,6 +314,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2573-find-the-string-with-lcp](https://github.com/ankit227060/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/ankit227060/LeetCode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ankit227060/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit227060/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ankit227060/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/ankit227060/LeetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ankit227060/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -515,6 +517,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankit227060/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ankit227060/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ankit227060/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ankit227060/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ankit227060/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ankit227060/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
