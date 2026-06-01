@@ -1,18 +1,15 @@
-class Solution {
-    public boolean isPalindrome(int x) {
+class Solution{
+    public boolean isPalindrome(int x){
+        int num= x;
         int rev =0;
-        int rem =0;
-        int n = x;
-        while(n>0){
-            rem = n%10;
-            rev = (rev*10)+rem;
-            n=n/10;
+        while(num>0){
+            int digit=num%10;
+            rev=rev*10+digit;
+            num=num/10;
         }
         if(rev==x){
             return true;
-        }else return false ;
+        }else
+        return false;
     }
 }
-
-//time : O(log n)
-//space : O(1)
