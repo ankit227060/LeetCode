@@ -752,6 +752,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0002-add-two-numbers](https://github.com/ankit227060/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ankit227060/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ankit227060/LeetCode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/ankit227060/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ankit227060/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
@@ -1009,6 +1010,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0061-rotate-list](https://github.com/ankit227060/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ankit227060/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ankit227060/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ankit227060/LeetCode/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankit227060/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ankit227060/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ankit227060/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
