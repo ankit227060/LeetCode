@@ -24,6 +24,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ankit227060/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ankit227060/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/ankit227060/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankit227060/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -297,6 +298,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ankit227060/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit227060/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/ankit227060/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ankit227060/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankit227060/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -539,6 +541,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1200-minimum-absolute-difference](https://github.com/ankit227060/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/ankit227060/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ankit227060/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ankit227060/LeetCode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
