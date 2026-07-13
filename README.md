@@ -815,6 +815,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankit227060/LeetCode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/ankit227060/LeetCode/tree/master/1291-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ankit227060/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/ankit227060/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
