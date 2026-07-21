@@ -18,20 +18,15 @@ class Solution {
                     i++;
                     count1++;
                 }
-                
                 while(i<n && arr[i]=='0'){
                     i++;
                     block2++;
                 }
-
                 if(block1!=0 && block2!=0) maxx = Math.max(maxx, block1+block2);
                 block1 = block2;
                 block2 = 0;
             }
-
         }
-
         return count1 + maxx;
-
     }
 }
