@@ -234,6 +234,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ankit227060/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankit227060/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ankit227060/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ankit227060/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/ankit227060/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ankit227060/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -840,6 +841,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ankit227060/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankit227060/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ankit227060/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ankit227060/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ankit227060/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankit227060/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ankit227060/LeetCode/tree/master/3713-longest-balanced-substring-i) |
