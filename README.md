@@ -100,6 +100,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ankit227060/LeetCode/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit227060/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankit227060/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ankit227060/LeetCode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -292,6 +293,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ankit227060/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit227060/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ankit227060/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ankit227060/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ankit227060/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -558,6 +560,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0169-majority-element](https://github.com/ankit227060/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ankit227060/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ankit227060/LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit227060/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ankit227060/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ankit227060/LeetCode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/ankit227060/LeetCode/tree/master/1200-minimum-absolute-difference) |
