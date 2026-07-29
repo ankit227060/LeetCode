@@ -59,6 +59,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankit227060/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ankit227060/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ankit227060/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit227060/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/ankit227060/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankit227060/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankit227060/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -140,6 +141,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankit227060/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit227060/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit227060/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankit227060/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankit227060/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankit227060/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -241,6 +243,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankit227060/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ankit227060/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankit227060/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit227060/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3606-coupon-code-validator](https://github.com/ankit227060/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ankit227060/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -919,6 +922,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2833-furthest-point-from-origin](https://github.com/ankit227060/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit227060/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankit227060/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit227060/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/ankit227060/LeetCode/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/ankit227060/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit227060/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1118,6 +1122,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit227060/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit227060/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ankit227060/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/ankit227060/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
