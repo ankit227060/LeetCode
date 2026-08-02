@@ -107,6 +107,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ankit227060/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ankit227060/LeetCode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ankit227060/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -310,6 +311,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/ankit227060/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/ankit227060/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankit227060/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ankit227060/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -683,6 +685,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0788-rotated-digits](https://github.com/ankit227060/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ankit227060/LeetCode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/ankit227060/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1327,4 +1330,5 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankit227060/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
