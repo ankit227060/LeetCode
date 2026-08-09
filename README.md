@@ -111,6 +111,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ankit227060/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ankit227060/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/ankit227060/LeetCode/tree/master/1390-four-divisors) |
@@ -323,6 +324,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ankit227060/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ankit227060/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ankit227060/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/ankit227060/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -698,6 +700,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit227060/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ankit227060/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1114,6 +1117,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ankit227060/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/ankit227060/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit227060/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1351,13 +1355,16 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankit227060/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
