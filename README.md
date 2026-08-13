@@ -234,6 +234,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankit227060/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ankit227060/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ankit227060/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit227060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankit227060/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ankit227060/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -391,6 +392,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2161-partition-array-according-to-given-pivot](https://github.com/ankit227060/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/ankit227060/LeetCode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit227060/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit227060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ankit227060/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ankit227060/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1243,6 +1245,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit227060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ankit227060/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ankit227060/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/ankit227060/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1278,6 +1281,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/ankit227060/LeetCode/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ankit227060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/ankit227060/LeetCode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/ankit227060/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ankit227060/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
