@@ -130,6 +130,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankit227060/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ankit227060/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/ankit227060/LeetCode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/ankit227060/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ankit227060/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/ankit227060/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/ankit227060/LeetCode/tree/master/1927-sum-game) |
@@ -381,6 +382,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1848-minimum-distance-to-the-target-element](https://github.com/ankit227060/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ankit227060/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ankit227060/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/ankit227060/LeetCode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ankit227060/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankit227060/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ankit227060/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -744,6 +746,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankit227060/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ankit227060/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1871-jump-game-vii](https://github.com/ankit227060/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ankit227060/LeetCode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ankit227060/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/ankit227060/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ankit227060/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1160,6 +1163,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit227060/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ankit227060/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/ankit227060/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ankit227060/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ankit227060/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/ankit227060/LeetCode/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ankit227060/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1401,6 +1405,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1406-stone-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ankit227060/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ankit227060/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ankit227060/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ankit227060/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -1409,6 +1414,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ankit227060/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ankit227060/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1416,6 +1422,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ankit227060/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ankit227060/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
