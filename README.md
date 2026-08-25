@@ -79,6 +79,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ankit227060/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/ankit227060/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ankit227060/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ankit227060/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankit227060/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankit227060/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/ankit227060/LeetCode/tree/master/3731-find-missing-elements) |
@@ -519,6 +520,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ankit227060/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ankit227060/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankit227060/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ankit227060/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankit227060/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankit227060/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/ankit227060/LeetCode/tree/master/3731-find-missing-elements) |
