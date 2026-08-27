@@ -81,6 +81,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3714-longest-balanced-substring-ii](https://github.com/ankit227060/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankit227060/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankit227060/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit227060/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ankit227060/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/ankit227060/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit227060/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -279,6 +280,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3614-process-string-with-special-operations-ii](https://github.com/ankit227060/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ankit227060/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ankit227060/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit227060/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankit227060/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ankit227060/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -933,6 +935,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3546-equal-sum-grid-partition-i](https://github.com/ankit227060/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ankit227060/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ankit227060/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit227060/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ankit227060/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
@@ -996,6 +999,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit227060/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/ankit227060/LeetCode/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/ankit227060/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit227060/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankit227060/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
@@ -1156,6 +1160,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ankit227060/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ankit227060/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ankit227060/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankit227060/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ankit227060/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
