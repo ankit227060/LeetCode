@@ -219,6 +219,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ankit227060/LeetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ankit227060/LeetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ankit227060/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankit227060/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ankit227060/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -747,6 +748,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0799-champagne-tower](https://github.com/ankit227060/LeetCode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/ankit227060/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/ankit227060/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ankit227060/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
