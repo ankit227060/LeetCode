@@ -860,6 +860,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit227060/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit227060/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ankit227060/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ankit227060/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ankit227060/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -886,6 +887,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ankit227060/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ankit227060/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/ankit227060/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit227060/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit227060/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankit227060/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ankit227060/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -936,6 +938,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit227060/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit227060/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
 | ------- |
