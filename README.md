@@ -129,6 +129,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1510-stone-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankit227060/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/ankit227060/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit227060/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/ankit227060/LeetCode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ankit227060/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/ankit227060/LeetCode/tree/master/1642-water-bottles) |
@@ -772,6 +773,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1510-stone-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ankit227060/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankit227060/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit227060/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ankit227060/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankit227060/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1208,6 +1210,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1140-stone-game-ii](https://github.com/ankit227060/LeetCode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ankit227060/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/ankit227060/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit227060/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ankit227060/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ankit227060/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/ankit227060/LeetCode/tree/master/1871-jump-game-vii) |
@@ -1249,6 +1252,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit227060/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit227060/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit227060/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankit227060/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
