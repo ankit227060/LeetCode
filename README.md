@@ -23,6 +23,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0874-walking-robot-simulation](https://github.com/ankit227060/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ankit227060/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ankit227060/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ankit227060/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankit227060/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1345-jump-game-iv) |
@@ -236,6 +237,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ankit227060/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ankit227060/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit227060/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ankit227060/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ankit227060/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankit227060/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -621,6 +623,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ankit227060/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit227060/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ankit227060/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankit227060/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -655,6 +658,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit227060/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ankit227060/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/ankit227060/LeetCode/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ankit227060/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ankit227060/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/ankit227060/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -938,6 +942,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ankit227060/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ankit227060/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1345-jump-game-iv) |
@@ -1319,6 +1324,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/ankit227060/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankit227060/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ankit227060/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
