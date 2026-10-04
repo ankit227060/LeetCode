@@ -229,6 +229,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0443-string-compression](https://github.com/ankit227060/LeetCode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/ankit227060/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/ankit227060/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/ankit227060/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ankit227060/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
@@ -630,6 +631,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ankit227060/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/ankit227060/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit227060/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit227060/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -785,6 +787,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0396-rotate-function](https://github.com/ankit227060/LeetCode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/ankit227060/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ankit227060/LeetCode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/ankit227060/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ankit227060/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ankit227060/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ankit227060/LeetCode/tree/master/0799-champagne-tower) |
@@ -1200,6 +1203,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankit227060/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ankit227060/LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/ankit227060/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ankit227060/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ankit227060/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit227060/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1544,6 +1548,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0020-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ankit227060/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit227060/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankit227060/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankit227060/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
