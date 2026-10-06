@@ -1,17 +1,23 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int open = 0, add = 0;
-        for (char c : s.toCharArray()) {
+        int minAdd = 0;
+        int valid = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+
             if (c == '(') {
-                open++;
+                valid++;
             } else {
-                if (open > 0) {
-                    open--;
+                if (valid == 0) {
+                    minAdd++;
                 } else {
-                    add++;
+                    valid--;
                 }
             }
         }
-        return add + open;
+
+        minAdd += valid;
+        return minAdd;
     }
 }
