@@ -224,6 +224,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0115-distinct-subsequences](https://github.com/ankit227060/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ankit227060/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankit227060/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ankit227060/LeetCode/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankit227060/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/ankit227060/LeetCode/tree/master/0443-string-compression) |
@@ -958,6 +959,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0100-same-tree](https://github.com/ankit227060/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit227060/LeetCode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/ankit227060/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ankit227060/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/ankit227060/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -1346,6 +1348,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0078-subsets](https://github.com/ankit227060/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankit227060/LeetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankit227060/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ankit227060/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/ankit227060/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ankit227060/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/ankit227060/LeetCode/tree/master/1096-brace-expansion-ii) |
