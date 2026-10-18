@@ -139,6 +139,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1510-stone-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankit227060/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/ankit227060/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit227060/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/ankit227060/LeetCode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ankit227060/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -409,6 +410,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ankit227060/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ankit227060/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/ankit227060/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ankit227060/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/ankit227060/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankit227060/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -832,6 +834,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit227060/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ankit227060/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ankit227060/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ankit227060/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit227060/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ankit227060/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -937,6 +940,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit227060/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit227060/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ankit227060/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1017,6 +1021,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ankit227060/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ankit227060/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit227060/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
@@ -1072,6 +1077,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ankit227060/LeetCode/tree/master/1013-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ankit227060/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Divide and Conquer
 |  |
@@ -1083,6 +1089,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0191-number-of-1-bits](https://github.com/ankit227060/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/ankit227060/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankit227060/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ankit227060/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankit227060/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -1332,6 +1339,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit227060/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankit227060/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit227060/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1436,6 +1444,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [0096-unique-binary-search-trees](https://github.com/ankit227060/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankit227060/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -1513,6 +1522,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ankit227060/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ankit227060/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ankit227060/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit227060/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/ankit227060/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -1597,4 +1607,8 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankit227060/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankit227060/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankit227060/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankit227060/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
