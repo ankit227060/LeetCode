@@ -325,6 +325,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankit227060/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankit227060/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ankit227060/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ankit227060/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
