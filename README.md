@@ -159,6 +159,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2174-next-greater-numerically-balanced-number](https://github.com/ankit227060/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ankit227060/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2409-count-days-spent-together](https://github.com/ankit227060/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ankit227060/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ankit227060/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ankit227060/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -286,6 +287,7 @@ If you find this repository useful or choose to clone it, give it a ⭐ star.
 | [2211-count-collisions-on-a-road](https://github.com/ankit227060/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit227060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankit227060/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2409-count-days-spent-together](https://github.com/ankit227060/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ankit227060/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankit227060/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ankit227060/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
